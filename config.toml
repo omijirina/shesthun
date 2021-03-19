@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://shesthun.vercel.app/"
 languageCode = "en"
-title = "Ninyy"
+title = "Shesthun"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
